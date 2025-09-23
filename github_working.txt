@@ -24,3 +24,10 @@ to merge branches we have go to the main branch then -> git switch main
 then to merge -> git merge file_name
 to delete the branch -> git branch -d branch_name
 to create and switch branch simuntaneously -> git switch -C branch_name
+
+# stashing commands
+
+use command :- git stash -> holds / saves those changes without adding/commiting it
+then git switch branch_name - > make changes 
+then return to the stashed branch
+and if u want those stashed changes back use - > git stash apply
