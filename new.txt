@@ -5,4 +5,6 @@ new work added(2)
 5th line in main ok
 this is his mainline
 
-new work added(2)
+new work added(2) hi
+
+after stashing go to other branch as after using git stash it is saved somewehere in memory but not added
