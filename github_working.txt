@@ -20,3 +20,6 @@ Branching commands
 to create the branch -> git branch feature/file_name
 to switch to that branch -> git switch branch_name
 to check/see the branch -> git branch 
+to merge branches we have go to the main branch then -> git switch main
+then to merge -> git merge file_name
+to delete the branch -> git branch -d branch_name
