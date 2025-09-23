@@ -8,3 +8,5 @@ this is his mainline
 new work added(2) hi
 
 after stashing go to other branch as after using git stash it is saved somewehere in memory but not added
+
+added somethings
