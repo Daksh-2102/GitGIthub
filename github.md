@@ -7,7 +7,7 @@ C - commited
 
 #commands u need to know
 git status -s --> to know the current status of unstaged and staged files.
-git log --online --> to know the current status of saved points.
+git log --oneline --> to know the current status of saved points.
 
 # manage your projects
 making git available in your project
