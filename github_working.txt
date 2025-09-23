@@ -23,3 +23,4 @@ to check/see the branch -> git branch
 to merge branches we have go to the main branch then -> git switch main
 then to merge -> git merge file_name
 to delete the branch -> git branch -d branch_name
+to create and switch branch simuntaneously -> git switch -C branch_name
