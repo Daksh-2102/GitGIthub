@@ -1,0 +1,22 @@
+jab b ap koi folder bnate ho , tab apke git ko uss folder ke baare m pta nhi hota h islea aap 
+git ko initialize krte ho , so aab git ko permissions mil gyi hai and ab wo apke folder ko 
+pechnata hai .. toh ab git kaam kr skta hai , jsey ki wo untracked(U), tracked(A), staged, 
+and saved checkpoints create kr skta hai 
+
+git kuch interesting kaam b kr skta hai jsey ki apki kitni files kis stage pr hai wo bta skta hai
+
+-> git initialize kro
+-> check kr skte ho konsi file kis stage pr h -> git status -s
+-> check kr skte ho kitne saved points hai -> git log --oneline --graph
+
+git status sirf unka status btayga jo untracked hai yan commit nhi h yan modified , once u 
+commited , after that no status has been shown to u 
+
+git status btayega commit ke phle and bdh ke files stages 
+git log ka kaam h saaere commit histories btana 
+
+Branching commands
+
+to create the branch -> git branch feature/file_name
+to switch to that branch -> git switch branch_name
+to check/see the branch -> git branch 
