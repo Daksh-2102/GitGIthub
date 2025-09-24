@@ -5,7 +5,7 @@ ab usey wo github pr dalega
 then wo collaborators add krega
 
 ab Saare bnde us repo se cloning krege 
-(very imp) apni branch create krega
+(VERY IMP) apni branch create krega
 apna code usi branch mein likege
 complete hone pr  commit dein
 inform krein teammate ko about the commit 
