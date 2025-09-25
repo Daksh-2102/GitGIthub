@@ -30,4 +30,4 @@ to create and switch branch simuntaneously -> git switch -C branch_name
 use command :- git stash -> holds / saves those changes without adding/commiting it
 then git switch branch_name - > make changes 
 then return to the stashed branch
-and if u want those stashed changes back use - > git stash apply
+and if u want those stashed changes back, then use - > git stash apply
