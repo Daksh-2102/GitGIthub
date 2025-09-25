@@ -7,6 +7,6 @@ then wo collaborators add krega
 ab Saare bnde us repo se cloning krege 
 (VERY IMP) apni branch create krega
 apna code usi branch mein likege
-complete hone pr commit dein and push krdein
+complete hone pr commit dein and push krdein 
 inform krein teammate ko about the commit 
 merger bnda fetch krega and merge krega and re push krega
